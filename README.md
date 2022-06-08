@@ -1,1 +1,1 @@
-# Slow-Beathing-App
+# Slow-Breathing-App
